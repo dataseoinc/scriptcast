@@ -1,10 +1,8 @@
 <? php
 // Dataseo inc
 // www.dataseoinc.com
-require_once ( " CCprotoBuf.php " );
-require_once ( " CCDefaultMediaPlayer.php " );
-require_once ( " CCPlexPlayer.php " );
-require_once ( " mdns.php " );
+	
+	
 classe  Chromecast
 {
 	// Envia uma foto ou um vídeo para um Chromecast usando reverso
